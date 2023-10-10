@@ -1,4 +1,4 @@
-#include "main.h"
+#include"main.h"
 
 /**
  * print_alphapet - utilizes on the _putchar fuction to print
