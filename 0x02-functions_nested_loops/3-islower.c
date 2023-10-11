@@ -6,8 +6,8 @@
  *
  * @c: checks input of function
  *
- *Description: Return: returns 1 if 'c' is lower case
- * other wise always 0 (Success)
+ * Description: Return: returns 1 if 'c' is lower case
+ *		other wise Always 0 (Success)
  *
 */
 int _islower(int c)
