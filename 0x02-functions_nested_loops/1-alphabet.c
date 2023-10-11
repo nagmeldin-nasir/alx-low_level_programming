@@ -1,16 +1,17 @@
 #include "main.h"
 
 /**
- * Description: function ‘print_alphabet’: print_alphapet - utilizes on the _putchar fuction to print
- *		the alphabet a - z
- * Returne: 0 (Success)
- */
+ * print_alphapet - this is the function of the task
+ *
+ * Return: return 0
+*/
 
-int print_alphabet(void)
+void print_alphabet(void)
 {
 int ch;
 for (ch = 'a'; ch <= 'z'; ch++)
+{
 _putchar(ch);
+}
 _putchar('\n');
 }
-
