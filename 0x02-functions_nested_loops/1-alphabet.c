@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphapet - utilizes on the _putchar fuction to print
- *		the alphabet a - z
-*/
+ *Description: print_alphapet - utilizes on the _putchar fuction to print
+ *		the alphabet a - z 
+ * Returne: 0 (Success)
+ */
 
 int print_alphabet(void)
 {
