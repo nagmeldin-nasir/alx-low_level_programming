@@ -6,7 +6,7 @@
  *
  * @c: checks input of function
  *
- * Retur: returns 1 if 'c' is lower case
+ *Description: Return: returns 1 if 'c' is lower case
  * other wise always 0 (Success)
  *
 */
