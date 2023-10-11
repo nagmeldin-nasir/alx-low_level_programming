@@ -5,7 +5,7 @@
  * both lowercase or uppercase
  *
  * @c: takes input from other functions
- * _isalpha Returne: 1 is c if true else 0
+ * Return: 1 is c if true else 0
 */
 
 int _isalpha(int c)
