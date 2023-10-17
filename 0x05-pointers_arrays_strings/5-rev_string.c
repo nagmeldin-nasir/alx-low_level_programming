@@ -3,21 +3,24 @@
 /**
  * rev_string - reverses a string
  *
- *@c: string parameter input
+ * @s: string parameter input
  *
- *Return: nothing
+ * Return: Nothing
  *
 */
 
 void rev_string(char *s)
+
 {
+
 	int l, i;
 	char temp;
 
-	/*find string without null char */
-
+	/*find string without null char*/
 	for (l = 0; s[l] != '\0'; ++l)
-/* swap the string by looping to half the string*/
+		;
+
+/*swap the string by looping to half the string*/
 for (i = 0; i < l / 2; i++)
 {
 	temp = s[i];
